@@ -1,0 +1,46 @@
+Categoría: Tienda Virtual
+Problemática: A pesar de que los precios de los alimentos suben cada vez más en las tiendas y supermercados, este aumento no se ve reflejado en mejores ingresos para quienes los producen. Los pequeños y medianos agricultores se ven obligados a escoger entre vender sus productos a bajos precios, que son establecidos por distribuidores o intermediarios que buscan maximizar sus propias ganancias, o intentar venderlos ellos mismos sumando a su arduo trabajo de producción más tiempo, esfuerzo y el riesgo de que los alimentos se pierdan por no encontrar suficientes compradores.
+Solución: Para ayudar a resolver esta problemática proponemos una aplicación web que le permita al agricultor venderle sus productos directamente al consumidor final, para que de esta forma el productor pueda recibir una mayor compensación económica por su labor y al mismo tiempo el comprador pueda realizar pedidos desde la comodidad de su hogar o cualquier lugar en el que se encuentre a través de un dispositivo con acceso a internet.
+
+Historias de usuario
+
+
+Historia 1:  Registro de usuario
+Como usuario de la aplicación web quiero registrarme y acceder a las herramientas para hacer compras.
+
+Historia 2:  Modificar datos personales
+Como usuario de la aplicación web quiero modificar mis datos personales para mantener actualizada la información de contacto.
+
+Historia 3:  Ver perfil
+Como usuario de la aplicación web quiero acceder a mi perfil para ver mi información personal.
+
+Historia 4: Ver productos
+Como usuario de la aplicación web quiero ver una lista de los productos en venta para conocer qué artículos se ofrecen en la plataforma y cuáles son sus precios.
+Historia 5:  Descripción del producto
+Como usuario de la aplicación web quiero ver una descripción de cada producto para conocer sus características y especificaciones.
+
+Historia 6: Agregar productos al carrito de compras
+Como usuario de la aplicación web quiero agregar productos al carrito de compras para crear una lista de productos a comprar.
+
+Historia 7: Ver mi carrito de compras 
+Como usuario de la aplicación web quiero ver mi carrito de compras para saber cuántos y cuáles productos he agregado y cuál es el total a pagar.
+Historia 8:  Realizar compra
+Como usuario de la aplicación web quiero confirmar la compra de los productos agregados al carrito de compras para adquirir los productos que necesito.
+
+Historia 9: Administrador - Iniciar sesión
+Como administrador quiero iniciar sesión en la aplicación web para gestionar el funcionamiento de la plataforma.
+
+Historia 10: Vendedor/Productor - Ver lista de pedidos
+Como administrador quiero los pedidos generados a mi tienda y confirmar los envíos.
+
+Historia 11: Administrador - Crear nuevo producto
+Como administrador quiero crear nuevos productos para agregar nuevos artículos al inventario de la plataforma.
+
+Historia 12: Administrador - Modificar producto
+Como administrador quiero modificar productos previamente agregados para mantener actualizada la información de los artículos ofrecidos en la plataforma.
+
+Historia 13: Administrador - Eliminar producto
+Como administrador quiero eliminar productos para dejar de mostrar artículos descontinuados.
+
+
+
